@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @haotrr
-- 👀 I’m interested in Go, Python
-- 🌱 I’m currently learning Scala
+- 👀 I’m interested in Go
 - 📫 How to reach me haotrrdot@gmail.com
 
 <!---
